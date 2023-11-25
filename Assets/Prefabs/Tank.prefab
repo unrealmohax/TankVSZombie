@@ -11005,7 +11005,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 112
   m_CollisionDetection: 0
 --- !u!65 &2417481344436572854
 BoxCollider:
@@ -11078,7 +11078,6 @@ MonoBehaviour:
   _collider: {fileID: 2417481344436572854}
   _view: {fileID: 6237439776208027922}
   _config: {fileID: 11400000, guid: d8b57c7c41e1fb74f9144157ffc61d76, type: 2}
-  _bullet: {fileID: 4459697504743542946, guid: bcb96cc8675ec1c4190c0d5eb18ee669, type: 3}
   _spawnPointSmallWeapon: {fileID: 371379563122444542}
   _spawnPointLargeWeapon: {fileID: 7783906447982215232}
 --- !u!114 &6237439776208027922
